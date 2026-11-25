@@ -10,6 +10,8 @@
 
 🔗 **[Acesse o projeto em produção](https://exercicio-efood-78n3hvvct-joao-paulo-s-projects-68291a6f.vercel.app)**
 
+[https://exercicio-efood-ten.vercel.app/]
+
 ---
 
 ## 📋 Índice
